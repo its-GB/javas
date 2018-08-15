@@ -134,7 +134,7 @@
  function init() {
    readWords();
 
-   var fontSize = 160;
+   var fontSize = 50;
    var wordWidth = 0;
    do {
      wordWidth = 0;
